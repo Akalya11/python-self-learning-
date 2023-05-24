@@ -1,0 +1,5 @@
+sum =0
+for i in range( 0,11):
+    sum=sum + int(input("Enter the number:"))
+    print("Sum of numbers is:",sum)                   
+
