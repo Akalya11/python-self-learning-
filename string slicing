@@ -1,0 +1,11 @@
+str= "Welcome to python"
+print(str[2:5])
+print(str[:])
+print(str[5:])
+print(str[-4:-1])
+
+  OUTPUT:
+lco
+Welcome to python
+me to python
+tho
